@@ -297,7 +297,7 @@ Host=<server-address>;Port=1234;Username=<username>;Password=<password>;Database
 **4. Apply the database migrations**
 
 ```
-> dotnet ef migrations add "new" --startup-project Application --project 
+> dotnet ef migrations add "new" --startup-project Application --project Infrastructure
 > dotnet ef database update "new" --startup-project Application --project Infrastructure
 ```
 
