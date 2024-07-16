@@ -282,7 +282,7 @@ Host=<server-address>;Port=1234;Username=<username>;Password=<password>;Database
 
 <br/>
 
-**3. Set the environment variables**
+**3. Set the environment variables(PC 환경 설정 - 시스템)**
 
 <br/>
 
